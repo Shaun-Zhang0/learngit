@@ -19,7 +19,7 @@
       "port": "22",
       "ref": "origin/master",
       "repo": "git@github.com:Shaun-Zhang0/learngit.git",
-      "path": "/www/website/production",
+      "path": "/www/website/learngit",
       "ssh_options": "StrictHostKeyChecking=no",
       "env": {
         "NODE_ENV": "production"
